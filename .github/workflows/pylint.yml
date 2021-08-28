@@ -3,7 +3,7 @@ name: pylint
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
   build1:
